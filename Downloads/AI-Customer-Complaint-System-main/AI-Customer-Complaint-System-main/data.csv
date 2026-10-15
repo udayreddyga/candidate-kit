@@ -1,0 +1,31 @@
+ticket,category
+payment failed but money deducted,Billing
+refund not received,Billing
+charged twice for order,Billing
+invoice incorrect,Billing
+cannot login to account,Account
+password reset not working,Account
+unable to update profile,Account
+account locked after login attempt,Account
+internet connection slow,Technical
+app keeps crashing,Technical
+system error while submitting form,Technical
+network issue during transaction,Technical
+delivery delayed for order,Delivery
+package damaged on arrival,Delivery
+order status not updated,Delivery
+product delivered late,Delivery
+how to change account settings,General Inquiry
+what are the subscription plans,General Inquiry
+need information about product features,General Inquiry
+how to contact support,General Inquiry
+cancel my subscription,Subscription
+upgrade my plan,Subscription
+downgrade subscription,Subscription
+payment failed during subscription,Subscription
+request refund for subscription,Subscription
+wrong product delivered,Order Issue
+order cancelled automatically,Order Issue
+order confirmation not received,Order Issue
+product missing from order,Order Issue
+order tracking not working,Order Issue
